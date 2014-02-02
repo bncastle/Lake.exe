@@ -3,6 +3,7 @@
 [Dd]ebug/
 [Rr]elease/
 [Oo]bj/
+src/*.exe
 
 #file types
 *.d
